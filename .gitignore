@@ -1,0 +1,12 @@
+# Binaries and object files
+cibpai
+src/*.o
+*.o
+
+# Output directories
+frames_out/
+*.mp4
+
+# IDE / System files
+.DS_Store
+.vscode/
